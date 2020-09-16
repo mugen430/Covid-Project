@@ -8,7 +8,7 @@
 ## Rapid API, Google API, WHO data, GeoPlugIn, ChartJs.
 
 # Links
-##
+## https://mugen430.github.io/Covid-Project/
 
 # Future Development Goals
 ## To add heat layer on google maps to show the hot spots for Covid-19
